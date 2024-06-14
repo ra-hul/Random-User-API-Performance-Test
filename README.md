@@ -10,9 +10,9 @@ For this project, the https://randomuser.me/api API is used for checking the max
 - [About](#about)
 - [List of Tests](#List-of-Tests)
 - [What is capacity analysis and bottleneck Point?](#what-is-capacity-analysis-and-bottleneck-point?)
-- [Screenshots of Load testing](#screenshots-of-load-testing)
-- [Screenshot of Stress testing](#screenshots-of-stress-testing)
-- [Screenshots of jmeter HTML report](#screenshots-of-jmeter-html-report)
+- [Screenshots of Load testing](#screenshot-of-load-testing)
+- [Screenshot of Stress testing](#screenshot-of-stress-testing)
+- [Screenshot of jmeter HTML report](#screenshots-of-jmeter-html-report)
 
 
 # List of tests
